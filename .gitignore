@@ -1,0 +1,7 @@
+
+xyzreader/.gradle/
+xyzreader/build/
+xyzreader/.idea/
+xyzreader/XYZReader/build/
+xyzreader/XYZReader/build/intermediates/
+*.class

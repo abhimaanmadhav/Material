@@ -8,5 +8,67 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
-
+    <string name="regular">sans-serif </string>
+    <string name="light">sans-serif-light</string>
+    <string name="condensed">sans-serif-condensed</string>
+    <string name="thin">sans-serif-thin</string>
+    <string name="medium">sans-serif-medium</string>
+    <string name="longtext">7d3ba0b LOW 22
+03-28 14:53:15.721 15005-15059/com.example.xyzreader D/Volley: [8150] Request.finish: 11882 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p006.jpg 0xc7d3ba0b LOW 18
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12829 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p006.jpg 0xc7d3ba0b LOW 11
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12617 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p012.jpg 0xc7d3ba0b LOW 12
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12470 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p013.jpg 0xc7d3ba0b LOW 13
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12402 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p014.jpg 0xc7d3ba0b LOW 14
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12397 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p015.jpg 0xc7d3ba0b LOW 15
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12353 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p016.jpg 0xc7d3ba0b LOW 16
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/Volley: [8152] Request.finish: 12349 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p017.jpg 0xc7d3ba0b LOW 17
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 1024
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, pass to proxy
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy+
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy get netid:0
+03-28 14:53:15.721 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy-, success
+03-28 14:53:15.731 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 13122 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p007.jpg 0xc7d3ba0b LOW 7
+03-28 14:53:15.731 15005-15059/com.example.xyzreader D/Volley: [8150] Request.finish: 11801 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p007.jpg 0xc7d3ba0b LOW 21
+03-28 14:53:15.741 15005-15062/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:15.741 15005-15062/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:16.771 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:16.771 15005-15061/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:16.781 15005-15062/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:16.781 15005-15062/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:17.051 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:17.051 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:17.051 15005-15059/com.example.xyzreader D/Volley: [8150] Request.finish: 13169 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p009.jpg 0xc7d3ba0b LOW 19
+03-28 14:53:17.051 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 14346 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p009.jpg 0xc7d3ba0b LOW 9
+03-28 14:53:17.871 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 15193 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p008.jpg 0xc7d3ba0b LOW 8
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 1024
+03-28 14:53:17.871 15005-15059/com.example.xyzreader D/Volley: [8150] Request.finish: 13971 ms: [X] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p008.jpg 0xc7d3ba0b LOW 20
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, pass to proxy
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy+
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy get netid:0
+03-28 14:53:17.871 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy-, success
+03-28 14:53:18.091 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:18.091 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:18.931 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:18.931 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 1024
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, pass to proxy
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy+
+03-28 14:53:21.131 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy get netid:0
+03-28 14:53:21.231 15005-15060/com.example.xyzreader D/libc: [NET] android_getaddrinfo_proxy-, success
+03-28 14:53:21.991 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet+,hn 25(0x646c2e64726f70),sn(),hints(known),family 0,flags 4
+03-28 14:53:21.991 15005-15063/com.example.xyzreader D/libc: [NET] android_getaddrinfofornet-, err=8
+03-28 14:53:22.581 15005-15062/com.example.xyzreader D/Volley: [8153] BasicNetwork.logSlowRequests: HTTP response for request=[ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p003.jpg 0xc7d3ba0b LOW 24> [lifetime=6843], [size=22722], [rc=200], [retryCount=1]
+03-28 14:53:22.591 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 18568 ms: [ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p003.jpg 0xc7d3ba0b LOW 24
+03-28 14:53:27.791 15005-15061/com.example.xyzreader D/Volley: [8152] BasicNetwork.logSlowRequests: HTTP response for request=[ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p001.jpg 0xc7d3ba0b LOW 23> [lifetime=12070], [size=27098], [rc=200], [retryCount=2]
+03-28 14:53:27.811 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 23815 ms: [ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p001.jpg 0xc7d3ba0b LOW 23
+03-28 14:53:30.301 15005-15063/com.example.xyzreader D/Volley: [8154] BasicNetwork.logSlowRequests: HTTP response for request=[ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p004.jpg 0xc7d3ba0b LOW 26> [lifetime=12433], [size=16885], [rc=200], [retryCount=2]
+03-28 14:53:30.311 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 26245 ms: [ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p004.jpg 0xc7d3ba0b LOW 26
+03-28 14:53:34.301 15005-15060/com.example.xyzreader D/Volley: [8151] BasicNetwork.logSlowRequests: HTTP response for request=[ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p011.jpg 0xc7d3ba0b LOW 25> [lifetime=17250], [size=17336], [rc=200], [retryCount=2]
+03-28 14:53:34.311 15005-15005/com.example.xyzreader D/Volley: [1] Request.finish: 30276 ms: [ ] https://dl.dropboxusercontent.com/u/231329/xyzreader_data/thumbs/p011.jpg 0xc7d3ba0b LOW 25</string>
 </resources>
